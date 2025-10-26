@@ -1,0 +1,8 @@
+
+.bg-image {
+    background-size: cover;
+
+}
+.sm-body {
+    --bs-gutter-x :0;
+}
